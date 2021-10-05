@@ -84,3 +84,14 @@
 .list-item{
 	color: orange;
 }
+
+#arrow{
+	transition: ease-in-out;
+	transition-duration: 300ms;	
+}
+
+#arrow:hover{
+	cursor: pointer;
+	
+	opacity: 50%;
+}
